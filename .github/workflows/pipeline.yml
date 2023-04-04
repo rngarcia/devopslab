@@ -2,6 +2,7 @@
 name: DevOpsLab Pipeline
 
 # Evento que irá acionar a pipeline
+#dummy
 on:
   push:
     branches:
